@@ -11,3 +11,5 @@ __pycache__/
 *.pyc
 crash-analysis-report/
 *.ips
+build/
+dist/
